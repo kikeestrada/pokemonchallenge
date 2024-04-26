@@ -4,6 +4,6 @@ Hello! This is the test project you requested as a technical test for the develo
 ## Points to consider:
 - Despite the fact that I made the grid responsive, the main layout that was delivered has issues rendering on mobile devices, but the grid I developed is responsive.
 - I remain pending on the use of ShadCN Components.
-- "In the top navigation, you can go to the link called: Pokemon Test to see the page with the component.
+- In the top Nav, you can go to the link called: Pokemon Test to see the page with the component.
 
 Best Regards!
